@@ -1,0 +1,16 @@
+################
+# general data #
+################
+
+input_csv = /Users/a8nguyen/Desktop/GoldfarbLab/rts_dynamic
+out_dir = out
+
+####################
+#threshold setting #
+####################
+
+closedoutPeps = 7
+Xcorr_thres = 2.0
+dCN = 0.1
+mass_tolerance = 10
+max_pep_per_prot = 5
